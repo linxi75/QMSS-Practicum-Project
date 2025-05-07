@@ -1,6 +1,6 @@
 # QMSS Practicum Project
 
-This repository contains the materials and report for the **QMSS Practicum Project**. The project covers [brief summary of the project or topic].
+This repository contains the materials and report for the **Columbia QMSS Practicum Project**. This project aims to develop a predictive software system for early warning of cloudbursts in urban areas. 
 
 ## Table of Contents
 
@@ -17,7 +17,7 @@ This repository contains the materials and report for the **QMSS Practicum Proje
 
 ## Project Overview
 
-The INDRA project, sponsored by Columbia University’s QMSS program and AltSurya Inc., aims to develop a predictive software system for early warning of cloudbursts in urban areas. The system will utilize machine learning and multiple data sources to enhance disaster preparedness for residents and businesses. The key objectives include predicting cloudburst occurrence within a 3-hour window, estimating intensity and potential impact, and achieving a prediction accuracy surpassing the current 50% benchmark in target locations. The project involves data preprocessing, model development, and performance evaluation.
+The INDRA project, sponsored by Columbia University’s QMSS program and AltSurya Inc., aims to develop a predictive software system for early warning of cloudbursts in India. The system will utilize machine learning and multiple data sources to enhance disaster preparedness for residents and businesses. The key objectives include predicting cloudburst occurrence within a 3-hour window, estimating intensity and potential impact, and achieving a prediction accuracy surpassing the current 50% benchmark in target locations. The project involves data preprocessing, model development, and performance evaluation.
 
 ## Report
 
@@ -27,17 +27,17 @@ The final project report is available as a PDF. You can download it from the lin
 
 ## Data
 
-The data used in this project is stored in the `data/` folder. 
+The data used in this project is stored in the `data` folder. 
 
 ## Code
 
-All code used for data analysis is in the `scripts/` folder.
+All code used for data analysis is in the `scripts` folder.
 - **Cloudburst prediction.ipynb**: Script for preprocessing the data, running the analysis, and generating results.
 
 
 ## Images
 
-Any figures or images related to the project are stored in the `images/` folder. These include:
+Any figures or images related to the project are stored in the `images` folder. These include:
 
 - **Hourly Precipitation distribution.png**: A figure visualizing the distribution of hourly precipitation.
 - **Time series of the key variable.png**: A figure representing the time series of the key variable.
